@@ -1,0 +1,7 @@
+print " Whats your name?"
+first_name = gets.chomp
+if first_name == "preston"
+    print " Hi preston"
+else
+    print " Thats not your name!"
+end
