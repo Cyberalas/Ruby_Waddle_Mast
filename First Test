@@ -1,0 +1,19 @@
+print "Whats your first name?"
+answer = gets.chomp
+answer2 = answer.capitalize 
+answer.capitalize!
+
+print "Whats your last name?"
+answer = gets.chomp
+answer2 = answer.capitalize 
+answer.capitalize!
+
+print "What city do you live in?"
+answer = gets.chomp
+answer2 = answer.capitalize 
+answer.capitalize!
+
+print " What province or state do you live in?"
+answer = gets.chomp
+answer2 = answer.upcase
+answer.upcase!
